@@ -1,0 +1,31 @@
+EN
+
+Simulation of dynamic particles system, where each particle is moving under the influence of forces, mainly gravity. Next positions of particles are calcuclated by graphic card using CUDA architecture.
+
+To launch application, you need to install few tools. First of all install CUDA (you need to have Nvidia Graphic Card), visit this page:
+https://developer.nvidia.com/cuda-downloads
+
+After that, you need to download and add to your IDE essential libraries - Glew32 and Freeglut. Download link:
+http://www.mediafire.com/file/cmlnr0pj0pyha5d/Glew+and+Glut.zip
+
+Short samples:
+https://www.screencast.com/t/9frMytAuO2
+https://www.screencast.com/t/VpbpfvOtR4B
+
+
+
+PL
+
+Symulacja dynamicznego systemu cząsteczek, poruszających się pod wpływem sił fizycznych, głównie siły grawitacji. Obliczenia dotyczące kolejnych pozycji
+cząsteczek wykonywane są na karcie graficznej za pomocą architektury CUDA.
+
+W celu uruchomienia programu należy zainstalować zestaw narzędzi do programowania w architekturze Nvidia CUDA. W tym celu należy odwiedzić ten link:
+https://developer.nvidia.com/cuda-downloads
+Architektura ta zadziała jedynie na sprzęcie z kartami graficznymi od firmy Nvidia.
+
+Ponadto należy zaimportować w IDE biblioteki dostępne pod tym linkiem:
+http://www.mediafire.com/file/cmlnr0pj0pyha5d/Glew+and+Glut.zip
+
+Krótki pokaz działania programu w formacie filmu znajduję się pod tymi linkami:
+https://www.screencast.com/t/9frMytAuO2
+https://www.screencast.com/t/VpbpfvOtR4B
